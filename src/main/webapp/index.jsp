@@ -124,8 +124,8 @@ footer{padding:50px 0 25px;border-top:1px solid var(--line)}.footer-grid{display
     <header>
       <div class="container header-inner">
         <div style="display:flex;align-items:center;gap:10px;">
-          <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu"><i class="fas fa-bars"></i></button>
-          <a class="brand" href="#"><i class="fas fa-store-alt"></i><span>Nexus<span class="accent">Shop</span></span></a>
+          <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu"><em class="fas fa-bars"></em></button>
+          <a class="brand" href="#"><em class="fas fa-store-alt"></em><span>Nexus<span class="accent">Shop</span></span></a>
         </div>
         <nav class="main-nav" id="mainNav" aria-label="Main navigation">
           <ul>
